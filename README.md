@@ -18,6 +18,10 @@ A free in-browser PDF tool. **All processing happens on your device — files ar
 
 PC・Mac・iPhoneのブラウザで動作します。/ Works in any modern browser on PC, Mac and iPhone.
 
+## 作者 / Author
+
+**kreatio-works** — その他のツール / More tools: https://kreatio-works.github.io/
+
 ## ライセンス / License
 
 MIT License — 無料で自由に使用・改変・再配布できます。
