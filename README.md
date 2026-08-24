@@ -1,4 +1,4 @@
-# PDF Tools — ブラウザで動くPDF統合・分割ツール
+﻿# PDF Tools — ブラウザで動くPDF統合・分割ツール
 
 インストール不要・ブラウザで開くだけで使えるPDFツールです。
 **ファイルはすべて端末内で処理され、サーバーには一切送信されません**（pdf-lib使用・オフラインでも動作）。
@@ -7,8 +7,8 @@ A free in-browser PDF tool. **All processing happens on your device — files ar
 
 ## 使う / Use it
 
-- **日本語版**: https://USERNAME.github.io/pdf-tools/
-- **English**: https://USERNAME.github.io/pdf-tools/en.html
+- **日本語版**: https://kreatio-works.github.io/pdf-tools/
+- **English**: https://kreatio-works.github.io/pdf-tools/en.html
 
 ## できること / Features
 
